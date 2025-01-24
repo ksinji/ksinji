@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/akstp1717" width="600" height="300"/></a>
+
 <!--
 **ksinji/ksinji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
